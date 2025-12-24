@@ -20,9 +20,8 @@ PyCraftKit is a small collection of utilities focused on simplifying common task
 Clone the repository and run directly from source:
 
 ```powershell
-git clone https://example.com/your-repo.git
+git clone https://github.com/akw3s/PyCraftKit.git
 cd pycraftkit_lib
-python -m pip install -r requirements.txt   # if a requirements file exists
 ```
 
 Or install into an environment and run the script directly.
@@ -52,4 +51,5 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-Maintainer: tamir
+Maintainer: Akwes
+
